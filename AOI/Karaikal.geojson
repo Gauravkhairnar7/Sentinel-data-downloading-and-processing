@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Karaikal",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": null, "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "district": "Karaikal", "dt_cen_cd": "4", "st_nm": "Puducherry", "censuscode": "637", "st_cen_cd": "34" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 79.85249, 10.987981 ], [ 79.84948, 10.827004 ], [ 79.820112, 10.886642 ], [ 79.760188, 10.91469 ], [ 79.744059, 10.912745 ], [ 79.726371, 10.928434 ], [ 79.720698, 10.967049 ], [ 79.746879, 10.996587 ], [ 79.85249, 10.987981 ] ] ] ] } }
+]
+}
